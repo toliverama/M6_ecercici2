@@ -1,0 +1,24 @@
+$primary: rebeccapurple;
+$secondary:rgb(78, 124, 3);
+$success: lime;
+$danger: #dd0000;
+$warning: orange;
+$info: aqua;
+$light:rgb(235, 213, 213);
+$dark:rgb(4, 3, 80);
+
+
+
+$body-bg: #f3f3f0;
+
+@import "bootstrap";
+
+
+
+body {
+    padding-top: 90px;
+}
+
+section {
+    min-height: 90vh;
+}
